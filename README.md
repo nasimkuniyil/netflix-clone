@@ -1,7 +1,8 @@
 # Netflix Clone
 Just for practice React and tailwind with Vite.
 
-## 🛠️ Tech Stack
+---
+
 <p>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>

@@ -1,7 +1,6 @@
 # Netflix Clone
 Just for practice React and tailwind with Vite.
 
----
 
 <p>
   <!-- React -->
